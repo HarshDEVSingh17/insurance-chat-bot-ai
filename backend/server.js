@@ -22,7 +22,8 @@ app.use(express.static(path.join(__dirname, "public")));
 app.use("/chat", chatRoute);
 
 // 3. Serve index.html for any other request (Fixes the 404)
-app.get("*", (req, res) => {
+// Use {*splat} to capture all paths
+app.get("/{*splat}", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "index.html"));
 });
 
