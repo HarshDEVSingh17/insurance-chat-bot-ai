@@ -1,0 +1,473 @@
+[
+  {
+    "question": "How do I buy a health insurance policy online?",
+    "answer": "Visit our website, select 'Health Insurance' from the menu, compare plans from different insurers, choose your preferred policy, fill in your details, upload required documents (ID proof, address proof, passport photo), and complete payment. Your policy will be issued within 24-48 hours.",
+    "category": "Policy Purchase",
+    "tags": ["health insurance", "buy policy", "online purchase"]
+  },
+  {
+    "question": "What documents do I need to buy car insurance?",
+    "answer": "You need: RC (Registration Certificate) copy, previous policy copy (for renewal), PAN card, Aadhaar card or driving license, and vehicle photos (front, back, sides, chassis number). Upload clear scanned copies during the purchase process.",
+    "category": "Documentation",
+    "tags": ["car insurance", "documents required", "motor insurance"]
+  },
+  {
+    "question": "How long does it take to get my policy document after payment?",
+    "answer": "Digital policy documents are typically emailed within 24 hours of successful payment. Physical copies (if requested) are dispatched within 3-5 business days via registered post to your registered address.",
+    "category": "Policy Issuance",
+    "tags": ["policy document", "delivery time", "e-policy"]
+  },
+  {
+    "question": "Can I cancel my insurance policy and get a refund?",
+    "answer": "Yes, you can cancel during the free-look period (15-30 days depending on policy type). For cancellation, submit a written request with your policy number and reason. Refund will be processed within 15 working days minus proportionate risk premium and expenses.",
+    "category": "Policy Cancellation",
+    "tags": ["cancel policy", "refund", "free look period"]
+  },
+  {
+    "question": "How do I file a claim for my health insurance?",
+    "answer": "For cashless claims: Inform the hospital about your insurance and provide your e-card. For reimbursement: Pay hospital bills, collect all documents (bills, discharge summary, prescriptions), fill claim form available on our portal, submit within 30 days of discharge.",
+    "category": "Claims",
+    "tags": ["health claim", "cashless", "reimbursement"]
+  },
+  {
+    "question": "My policy premium is too high. Can I get a discount?",
+    "answer": "Premiums are set by insurance companies based on risk factors. However, you can reduce costs by: choosing higher deductibles, opting for longer policy terms (2-3 years), maintaining no-claim bonus, installing anti-theft devices (for motor), and comparing multiple quotes on our platform.",
+    "category": "Premium & Pricing",
+    "tags": ["premium discount", "lower price", "cost reduction"]
+  },
+  {
+    "question": "What is the difference between third-party and comprehensive car insurance?",
+    "answer": "Third-party insurance covers damages to other vehicles/property and is mandatory by law. Comprehensive insurance covers both third-party damages AND your own vehicle damages from accidents, theft, fire, natural calamities. We recommend comprehensive for better protection.",
+    "category": "Product Information",
+    "tags": ["car insurance types", "comprehensive", "third party"]
+  },
+  {
+    "question": "How do I renew my expired health insurance policy?",
+    "answer": "Login to your account, go to 'My Policies', select the expired policy, and click 'Renew'. If expired more than 90 days, you may need fresh medical tests. Some insurers allow grace periods of 15-30 days. Pre-existing disease coverage may reset if gap exceeds 90 days.",
+    "category": "Policy Renewal",
+    "tags": ["renewal", "expired policy", "health insurance renewal"]
+  },
+  {
+    "question": "Are pre-existing diseases covered in health insurance?",
+    "answer": "Yes, but after a waiting period of 2-4 years depending on the insurer and plan. Some policies offer reduced waiting periods of 1-2 years. You must declare all pre-existing conditions during purchase. Non-disclosure can lead to claim rejection.",
+    "category": "Coverage Details",
+    "tags": ["pre-existing disease", "waiting period", "coverage"]
+  },
+  {
+    "question": "How do I change my registered mobile number?",
+    "answer": "Login to your account, go to 'Profile Settings', click 'Edit Contact Details', enter new mobile number, verify with OTP sent to new number. Changes reflect immediately. You can also email us at support@company.com with policy number and request.",
+    "category": "Account Management",
+    "tags": ["mobile number change", "update contact", "profile update"]
+  },
+  {
+    "question": "What is IDV in car insurance and how is it calculated?",
+    "answer": "IDV (Insured Declared Value) is your car's current market value. It's calculated by deducting depreciation from manufacturer's listed price. IDV determines your premium and maximum claim amount. You can choose IDV within ±10% of manufacturer's suggested value.",
+    "category": "Product Information",
+    "tags": ["IDV", "car value", "insurance amount"]
+  },
+  {
+    "question": "Can I buy insurance for my parents above 60 years?",
+    "answer": "Yes, we offer senior citizen health insurance plans for ages 60-80 years. Premium is higher due to age. Pre-policy medical check-up is mandatory. Some plans have no upper age limit for renewal once purchased. Compare senior citizen specific plans on our portal.",
+    "category": "Policy Purchase",
+    "tags": ["senior citizen", "elderly insurance", "parents insurance"]
+  },
+  {
+    "question": "How do I download my policy document?",
+    "answer": "Login to your account, go to 'My Policies', select the policy you need, and click 'Download Policy Document'. PDF will be downloaded immediately. You can also find it in your registered email inbox within 24 hours of purchase.",
+    "category": "Policy Document",
+    "tags": ["download policy", "policy pdf", "e-policy"]
+  },
+  {
+    "question": "What is No Claim Bonus and how does it work?",
+    "answer": "NCB is a discount (up to 50%) on your motor insurance premium for claim-free years. It increases by 20% each claim-free year (20%, 25%, 35%, 45%, 50%). NCB belongs to you, not the vehicle, and transfers if you change cars. One claim resets NCB to zero.",
+    "category": "Benefits & Discounts",
+    "tags": ["NCB", "no claim bonus", "discount"]
+  },
+  {
+    "question": "My claim was rejected. What should I do?",
+    "answer": "First, request detailed rejection reason from the insurer. Common reasons: incomplete documents, non-disclosure, policy exclusions. If rejection seems unfair, you can: re-submit with complete documents, escalate to insurer's grievance cell, file complaint with IRDAI ombudsman (within 1 year), or contact our support team for assistance.",
+    "category": "Claims",
+    "tags": ["claim rejection", "dispute", "complaint"]
+  },
+  {
+    "question": "Do you offer term insurance plans?",
+    "answer": "Yes, we offer term life insurance from multiple insurers with coverage up to ₹2 crore. Compare plans based on premium, claim settlement ratio, riders available. Online purchase offers 10-15% lower premiums. Medical tests required for sum assured above ₹50 lakhs.",
+    "category": "Product Information",
+    "tags": ["term insurance", "life insurance", "term plan"]
+  },
+  {
+    "question": "How do I add a nominee to my existing policy?",
+    "answer": "Submit a nomination form available on our website along with nominee's ID proof and your policy document copy. Email to support@company.com or upload in 'My Policies' section. Changes take 7-10 working days to process and update.",
+    "category": "Policy Modification",
+    "tags": ["add nominee", "nomination", "beneficiary"]
+  },
+  {
+    "question": "What is cashless hospitalization and which hospitals are covered?",
+    "answer": "Cashless allows treatment at network hospitals without paying upfront. Insurance company settles bills directly with hospital. Check network hospital list on our website by entering your pincode. Over 10,000+ hospitals across India are in our network across all partner insurers.",
+    "category": "Coverage Details",
+    "tags": ["cashless", "network hospital", "hospitalization"]
+  },
+  {
+    "question": "Can I port my health insurance to another company?",
+    "answer": "Yes, you can port during renewal without losing accumulated benefits like waiting period credits and NCB. Apply 45-60 days before renewal date. New insurer will contact old insurer for details. Process takes 15-20 days. Compare portability options on our portal.",
+    "category": "Policy Portability",
+    "tags": ["porting", "switch insurer", "portability"]
+  },
+  {
+    "question": "How do I check my claim status?",
+    "answer": "Login to your account, go to 'My Claims', enter claim number to track status. You'll see: Submitted, Under Review, Approved, or Rejected. You'll receive SMS/email updates at each stage. For urgent queries, call our 24/7 helpline with your claim reference number.",
+    "category": "Claims",
+    "tags": ["claim status", "track claim", "claim tracking"]
+  },
+  {
+    "question": "What is covered under home insurance?",
+    "answer": "Home insurance covers: building structure from fire/earthquake/floods, household contents theft/damage, personal accident of family members, public liability. Optional: jewelry, electronics, rent loss. Standard sum insured ₹5 lakhs to ₹1 crore. Premium starts from ₹2,500 annually.",
+    "category": "Product Information",
+    "tags": ["home insurance", "property insurance", "coverage"]
+  },
+  {
+    "question": "I made a wrong payment. How do I get a refund?",
+    "answer": "Email us immediately at payments@company.com with transaction ID, policy number (if issued), and reason. For duplicate payments, refund processed within 7-10 working days to original payment source. For wrong policy purchase during free-look period, cancellation and refund takes 15 working days.",
+    "category": "Payments & Refunds",
+    "tags": ["wrong payment", "refund", "duplicate payment"]
+  },
+  {
+    "question": "What is the waiting period in health insurance?",
+    "answer": "Initial waiting: 30 days for all illnesses. Specific diseases: 2-4 years (hernia, cataract, etc.). Pre-existing: 2-4 years. Maternity: 9 months to 4 years. Accidents have no waiting period. Some policies offer reduced waiting periods at higher premium.",
+    "category": "Coverage Details",
+    "tags": ["waiting period", "health insurance", "coverage start"]
+  },
+  {
+    "question": "How do I increase my sum insured amount?",
+    "answer": "You can increase sum insured during renewal without medical tests (up to 50% increase). For higher increases, medical examination may be required. Some policies offer automatic sum insured restoration. Login and select 'Modify Coverage' option during renewal process.",
+    "category": "Policy Modification",
+    "tags": ["increase coverage", "sum insured", "higher coverage"]
+  },
+  {
+    "question": "Do I need to pay GST on insurance premium?",
+    "answer": "Yes, 18% GST is applicable on all general insurance premiums (health, motor, travel). Life insurance and personal accident policies attract 18% GST. GST is included in the final premium amount displayed. You'll receive GST invoice with policy document.",
+    "category": "Premium & Pricing",
+    "tags": ["GST", "tax", "insurance tax"]
+  },
+  {
+    "question": "What is covered in travel insurance?",
+    "answer": "Travel insurance covers: medical emergencies abroad, trip cancellation/delays, lost baggage, passport loss, flight delays, personal liability. Available for domestic and international travel. Premium starts ₹100 per day. Purchase up to 90 days before travel. Instant policy issuance.",
+    "category": "Product Information",
+    "tags": ["travel insurance", "trip coverage", "overseas insurance"]
+  },
+  {
+    "question": "How do I update my address in the policy?",
+    "answer": "Login to your account, go to 'My Policies', select policy, click 'Update Details', choose address change. Upload address proof (Aadhaar/utility bill). Submit request. Changes reflect in 3-5 working days. Updated policy document will be emailed within 7 days.",
+    "category": "Policy Modification",
+    "tags": ["address change", "update address", "address proof"]
+  },
+  {
+    "question": "What is accidental death benefit in term insurance?",
+    "answer": "Accidental Death Benefit is an optional rider that pays additional amount if death occurs due to accident. Payout is sum assured plus rider amount (usually 50-100% of base amount). Premium increase is minimal. Age limit typically 18-65 years. Available during policy purchase.",
+    "category": "Product Information",
+    "tags": ["accidental death", "term rider", "add-on benefit"]
+  },
+  {
+    "question": "Can I buy multiple health insurance policies?",
+    "answer": "Yes, you can buy multiple health policies from different insurers. During claim, you can choose which policy to use or split between them. Total claim cannot exceed actual hospital expenses. Inform all insurers about other policies to avoid claim rejection for non-disclosure.",
+    "category": "Policy Purchase",
+    "tags": ["multiple policies", "dual insurance", "top-up"]
+  },
+  {
+    "question": "What is the grace period for premium payment?",
+    "answer": "Grace period is 15 days for monthly premium, 30 days for quarterly/half-yearly/annual premium. Policy remains active during grace period. For life insurance, it's 30 days for regular premium and 15 days for single premium. Pay before grace period ends to avoid policy lapse.",
+    "category": "Premium & Pricing",
+    "tags": ["grace period", "late payment", "premium due"]
+  },
+  {
+    "question": "How do I compare insurance plans on your platform?",
+    "answer": "Enter your requirements (age, coverage amount, policy type), view instant quotes from 20+ insurers. Use filters: premium range, claim settlement ratio, network hospitals, features. Side-by-side comparison shows coverage, exclusions, benefits. Free expert callback available for personalized recommendations.",
+    "category": "Platform Features",
+    "tags": ["compare plans", "quote comparison", "plan selection"]
+  },
+  {
+    "question": "What happens if I miss my policy renewal date?",
+    "answer": "Most insurers offer 30-day grace period after renewal date. If policy lapses, health insurance loses continuity benefits (waiting period restarts, NCB lost). Motor insurance lapse makes driving illegal. You can revive within 90 days with fresh medical tests for health, inspection for motor.",
+    "category": "Policy Renewal",
+    "tags": ["missed renewal", "policy lapse", "late renewal"]
+  },
+  {
+    "question": "Is maternity covered in health insurance?",
+    "answer": "Yes, maternity is covered after waiting period of 9 months to 4 years depending on insurer. Coverage includes normal/C-section delivery, pre/post-natal care, newborn baby expenses (first 90 days). Sum insured limit: ₹50,000 to ₹1 lakh per delivery. Some plans limit to 2 deliveries.",
+    "category": "Coverage Details",
+    "tags": ["maternity", "pregnancy coverage", "childbirth"]
+  },
+  {
+    "question": "How do I get a duplicate policy document?",
+    "answer": "Login to your account, go to 'My Policies', select the policy, click 'Re-download'. If unable to login, email support@company.com with policy number, name, DOB, registered mobile/email for verification. Duplicate soft copy sent immediately. Hard copy dispatch takes 5-7 days.",
+    "category": "Policy Document",
+    "tags": ["duplicate policy", "lost policy", "policy copy"]
+  },
+  {
+    "question": "What is claim settlement ratio and why does it matter?",
+    "answer": "Claim Settlement Ratio (CSR) is percentage of claims settled vs. claims received by an insurer. Higher CSR (above 95%) means better claim approval chances. Check CSR on our comparison page before buying. Also consider claim settlement time and grievance redressal efficiency.",
+    "category": "Product Information",
+    "tags": ["claim settlement ratio", "CSR", "insurer rating"]
+  },
+  {
+    "question": "Can I buy insurance without medical tests?",
+    "answer": "Yes, health insurance up to ₹5 lakhs generally doesn't require medical tests if you're under 45 years. Term insurance up to ₹50 lakhs may not need tests if under 40 years. Higher coverage requires medical examination. Tele-medical tests available. Reports needed within 15 days.",
+    "category": "Policy Purchase",
+    "tags": ["medical tests", "no medical", "health checkup"]
+  },
+  {
+    "question": "What documents are needed to file a claim?",
+    "answer": "Health claim: Claim form, hospital bills, discharge summary, prescriptions, diagnostic reports, ID proof, cancelled cheque. Motor claim: Claim form, RC copy, driving license, FIR (for theft/major accidents), repair bills, photos of damage. Submit within timelines specified in policy.",
+    "category": "Claims",
+    "tags": ["claim documents", "required papers", "claim submission"]
+  },
+  {
+    "question": "How does EMI payment work for insurance premium?",
+    "answer": "Select EMI option during payment (available on premiums above ₹10,000). Choose tenure: 3/6/9/12 months. Interest: 12-15% p.a. charged by payment gateway. First EMI deducted immediately. Auto-debit setup required. No prepayment charges. Available on credit cards and some debit cards.",
+    "category": "Payments & Refunds",
+    "tags": ["EMI", "installment", "monthly payment"]
+  },
+  {
+    "question": "What is add-on cover or rider in insurance?",
+    "answer": "Riders are optional add-on benefits to enhance your base policy. Common riders: critical illness, personal accident, hospital cash, consumables cover, OPD expenses. Each rider increases premium by 10-30%. Available during purchase and some during renewal. Cannot be removed mid-term.",
+    "category": "Product Information",
+    "tags": ["riders", "add-on", "extra coverage"]
+  },
+  {
+    "question": "How do I file a complaint about service quality?",
+    "answer": "Email grievance@company.com with policy number, issue details, and supporting documents. We respond within 48 hours. Escalation process: Level 1 (3 days), Level 2 (7 days), Level 3 (15 days). If unresolved, approach IRDAI Ombudsman. Track complaint status in 'My Support Tickets' section.",
+    "category": "Customer Support",
+    "tags": ["complaint", "grievance", "customer service"]
+  },
+  {
+    "question": "Do you offer insurance for diabetic patients?",
+    "answer": "Yes, we offer health insurance for diabetics. Available plans: regular policies with diabetes declared as pre-existing (2-4 year waiting period) or specialized diabetic insurance with 1-year waiting period. Premium is 20-40% higher. Coverage includes diabetes-related complications. HbA1c test required.",
+    "category": "Policy Purchase",
+    "tags": ["diabetes", "pre-existing disease", "chronic illness"]
+  },
+  {
+    "question": "What is restoration benefit in health insurance?",
+    "answer": "Restoration benefit automatically restores your full sum insured if exhausted during policy year due to one illness. Restored amount can be used for different illness/family member. Available after basic sum insured is fully utilized. Some policies offer unlimited restoration. Increases premium by 10-15%.",
+    "category": "Coverage Details",
+    "tags": ["restoration", "sum insured restore", "refill benefit"]
+  },
+  {
+    "question": "How do I get tax benefits on insurance premium?",
+    "answer": "Health insurance: Deduct up to ₹25,000 under Section 80D (₹50,000 for senior citizens) including family and parents' premium. Term insurance: Deduct up to ₹1.5 lakhs under Section 80C. Download premium receipt from policy portal for ITR filing. Tax benefits as per current Income Tax Act.",
+    "category": "Tax Benefits",
+    "tags": ["tax deduction", "80D", "tax saving"]
+  },
+  {
+    "question": "Can I transfer my NCB to a new vehicle?",
+    "answer": "Yes, NCB is transferable when you buy a new car or transfer ownership. NCB transfers only if claimed within 90 days of old policy expiry. New policy must be in same owner's name. Submit old policy copy showing NCB percentage. NCB transfer takes 2-3 days to process.",
+    "category": "Policy Modification",
+    "tags": ["NCB transfer", "new vehicle", "change car"]
+  },
+  {
+    "question": "What is the policy tenure I should choose?",
+    "answer": "Long-term policies (2-3 years) offer: lower total premium (15-20% discount), locked premium rates, hassle-free renewal. Short-term (1 year) offers: flexibility to switch, lower immediate outlay. We recommend 2-year for health and motor insurance for better value and continuity benefits.",
+    "category": "Policy Purchase",
+    "tags": ["policy tenure", "duration", "multi-year policy"]
+  },
+  {
+    "id": "gen-001",
+    "category": "general",
+    "question": "What can you help me with?",
+    "answer": "I can help you with buying insurance, comparing plans, renewing policies, filing claims, tracking claims, understanding policy features, payment issues, and resolving technical problems on our platform.",
+    "keywords": ["help", "support", "services"]
+  },
+
+  {
+    "id": "gen-002",
+    "category": "general",
+    "question": "What are you?",
+    "answer": "I am an AI-powered insurance support assistant designed to help customers understand policies, compare plans, manage their insurance, and resolve issues related to our platform.",
+    "keywords": ["about", "assistant"]
+  },
+
+  {
+    "id": "ins-001",
+    "category": "insurance-basics",
+    "question": "What is car insurance?",
+    "answer": "Car insurance is a contract between you and an insurer that provides financial protection against losses caused by accidents, theft, natural disasters, or third-party liabilities.",
+    "keywords": ["car insurance", "definition"]
+  },
+
+  {
+    "id": "ins-002",
+    "category": "insurance-basics",
+    "question": "What is IDV in car insurance?",
+    "answer": "IDV (Insured Declared Value) is the current market value of your vehicle. It determines the maximum compensation payable by the insurer in case of total loss or theft.",
+    "keywords": ["IDV", "vehicle value"]
+  },
+
+  {
+    "id": "ins-003",
+    "category": "insurance-basics",
+    "question": "What is NCB?",
+    "answer": "NCB (No Claim Bonus) is a discount offered on the renewal premium if you have not made any claims during the previous policy year.",
+    "keywords": ["NCB", "discount"]
+  },
+
+  {
+    "id": "ins-004",
+    "category": "insurance-basics",
+    "question": "What is the difference between third-party and comprehensive insurance?",
+    "answer": "Third-party insurance covers damages caused to another person or property. Comprehensive insurance covers both third-party liabilities and damages to your own vehicle.",
+    "keywords": ["third party", "comprehensive"]
+  },
+
+  {
+    "id": "feat-001",
+    "category": "features",
+    "question": "How does your platform generate insurance quotes?",
+    "answer": "Our platform connects with multiple insurance providers through secure APIs and fetches real-time premium quotes based on your vehicle details, IDV selection, coverage options, and add-ons.",
+    "keywords": ["quotes", "premium", "comparison"]
+  },
+
+  {
+    "id": "feat-002",
+    "category": "features",
+    "question": "How can I compare insurance policies?",
+    "answer": "You can compare policies by entering your vehicle details. Our system displays multiple insurer options along with premium, coverage details, IDV, add-ons, and claim settlement ratios.",
+    "keywords": ["compare", "plans"]
+  },
+
+  {
+    "id": "feat-003",
+    "category": "features",
+    "question": "How do I download my policy?",
+    "answer": "After successful payment, your policy document is generated and sent to your registered email. You can also download it from your dashboard under 'My Policies'.",
+    "keywords": ["download", "policy document"]
+  },
+
+  {
+    "id": "buy-001",
+    "category": "purchase",
+    "question": "What documents are required to buy car insurance?",
+    "answer": "You need your vehicle registration certificate (RC), previous policy copy (for renewal), PAN card, Aadhaar or driving license, and clear photos of your vehicle if required.",
+    "keywords": ["documents", "buy policy"]
+  },
+
+  {
+    "id": "buy-002",
+    "category": "purchase",
+    "question": "What if my payment fails?",
+    "answer": "If payment fails, please check your bank statement to confirm deduction. If amount is deducted but policy is not generated, contact support with your transaction ID for assistance.",
+    "keywords": ["payment failed", "transaction issue"]
+  },
+
+  {
+    "id": "renew-001",
+    "category": "renewal",
+    "question": "How do I renew my insurance policy?",
+    "answer": "You can renew your policy by entering your vehicle or policy details on our platform. Select your preferred insurer and complete the payment to renew instantly.",
+    "keywords": ["renewal", "renew policy"]
+  },
+
+  {
+    "id": "claim-001",
+    "category": "claims",
+    "question": "How do I file a car insurance claim?",
+    "answer": "To file a claim, inform the insurer immediately, submit a claim form, provide vehicle documents, driving license, FIR (if required), and photos of the damage. A surveyor may inspect the vehicle before approval.",
+    "keywords": ["claim", "file claim"]
+  },
+
+  {
+    "id": "claim-002",
+    "category": "claims",
+    "question": "How can I track my claim status?",
+    "answer": "You can track your claim through your insurer's claim portal or through your dashboard if integrated. Enter your claim reference number to view updates.",
+    "keywords": ["track claim", "claim status"]
+  },
+
+  {
+    "id": "cancel-001",
+    "category": "cancellation",
+    "question": "Can I cancel my insurance policy?",
+    "answer": "Yes, you can cancel your policy during the free-look period or as per insurer guidelines. Submit a written cancellation request with your policy number and bank details for refund processing.",
+    "keywords": ["cancel", "refund"]
+  },
+
+  {
+    "id": "tech-001",
+    "category": "troubleshooting",
+    "question": "I did not receive my policy document. What should I do?",
+    "answer": "Please check your spam folder. If you still cannot find it, log in to your dashboard to download it or contact support with your registered email and transaction ID.",
+    "keywords": ["policy not received", "email issue"]
+  },
+  {
+    "question": "What is PolicyBoss?",
+    "answer": "PolicyBoss is one of India's leading insurance brokers. We help customers compare and buy insurance policies from top insurers and also help individuals become certified insurance advisors (POSP).",
+    "category": "About PolicyBoss",
+    "tags": ["about us", "company profile", "what is policyboss"]
+  },
+  {
+    "question": "Is PolicyBoss a licensed company?",
+    "answer": "Yes, PolicyBoss is a registered insurance broker licensed by IRDAI (Insurance Regulatory and Development Authority of India). License No. 424.",
+    "category": "Trust & Safety",
+    "tags": ["license", "IRDAI", "reliable"]
+  },
+  {
+    "question": "How can I contact PolicyBoss customer care?",
+    "answer": "You can reach our support team at 1800-419-4199 (Toll-Free) or email us at customercare@policyboss.com. We are available from 9:30 AM to 6:30 PM, Monday to Saturday.",
+    "category": "Customer Support",
+    "tags": ["contact", "phone number", "email", "support"]
+  },
+  {
+    "question": "How do I become a PolicyBoss agent (POSP)?",
+    "answer": "To become a Point of Sale Person (POSP), download the 'PolicyBoss Pro' app, register with your mobile number, complete the KYC and 15-hour training, pass the online exam, and get your certificate instantly.",
+    "category": "Agent / POSP",
+    "tags": ["become agent", "POSP", "join policyboss", "career"]
+  },
+  {
+    "question": "What is the PolicyBoss Pro App?",
+    "answer": "PolicyBoss Pro is a mobile app designed for our partners and agents. It allows you to sell policies, track leads, check commissions, and manage customer renewals all in one place.",
+    "category": "Technology",
+    "tags": ["app", "mobile app", "PolicyBoss Pro"]
+  },
+  {
+    "question": "Where is the PolicyBoss head office located?",
+    "answer": "Our registered office is located at Landmark Platinum, 3rd Floor, S.V. Road, Bandra (West), Mumbai - 400050.",
+    "category": "Contact",
+    "tags": ["office address", "location", "headquarters"]
+  },
+  {
+    "question": "Does PolicyBoss help with claim settlement?",
+    "answer": "Yes, PolicyBoss has a dedicated claims assistance team. We guide you through the documentation process and coordinate with the insurance company to ensure a smooth settlement.",
+    "category": "Claims",
+    "tags": ["claim assistance", "settlement help", "support"]
+  },
+  {
+    "question": "What types of insurance can I buy on PolicyBoss?",
+    "answer": "You can buy Car, Bike, Health, Term Life, Travel, Home, and Commercial insurance (like Marine, Fire, and Liability) through PolicyBoss.",
+    "category": "Products",
+    "tags": ["products", "insurance types", "offerings"]
+  },
+  {
+    "question": "How do I login to the PolicyBoss portal?",
+    "answer": "Visit www.policyboss.com and click on the 'Login' button at the top right. Enter your registered mobile number and OTP to access your dashboard.",
+    "category": "Account",
+    "tags": ["login", "sign in", "portal"]
+  },
+  {
+    "question": "Is my data safe with PolicyBoss?",
+    "answer": "Yes, we use advanced encryption and security protocols to ensure your personal and financial data is completely safe. We do not share your data with third parties without your consent.",
+    "category": "Trust & Safety",
+    "tags": ["security", "data privacy", "safety"]
+  },
+  {
+    "question": "Can I renew a policy bought from another agent through PolicyBoss?",
+    "answer": "Yes, you can renew any existing insurance policy through PolicyBoss. Just enter your previous policy details and vehicle/health information to get renewal quotes.",
+    "category": "Renewal",
+    "tags": ["portability", "renew external policy", "switch"]
+  },
+  {
+    "question": "What is the 'Sync Contact' feature in the PolicyBoss app?",
+    "answer": "The Sync Contact feature allows agents to upload their phone contacts to the app to easily send policy quotes and reminders to their network.",
+    "category": "App Features",
+    "tags": ["sync contact", "app features", "marketing"]
+  }
+
+
+]

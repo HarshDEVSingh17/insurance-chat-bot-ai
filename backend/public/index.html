@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Insurance Support Assistant</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f8;
+      display: flex;
+      justify-content: center;
+      margin-top: 40px;
+    }
+
+    .chat-box {
+      width: 420px;
+      height: 600px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .header {
+      background: #1f2937;
+      color: white;
+      padding: 16px;
+      text-align: center;
+      font-weight: bold;
+    }
+
+    .messages {
+      flex: 1;
+      padding: 16px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .message {
+      max-width: 75%;
+      padding: 10px 14px;
+      border-radius: 12px;
+      margin-bottom: 10px;
+      font-size: 14px;
+    }
+
+    .user {
+      align-self: flex-end;
+      background: #2563eb;
+      color: white;
+    }
+
+    .bot {
+      align-self: flex-start;
+      background: #e5e7eb;
+    }
+
+    .footer {
+      display: flex;
+      padding: 12px;
+      border-top: 1px solid #ddd;
+    }
+
+    input {
+      flex: 1;
+      padding: 8px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+    }
+
+    button {
+      margin-left: 8px;
+      padding: 8px 12px;
+      border-radius: 6px;
+      border: none;
+      background: #2563eb;
+      color: white;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<div class="chat-box">
+  <div class="header">Insurance Support Assistant</div>
+
+  <div class="messages" id="messages"></div>
+
+  <div class="footer">
+    <input type="text" id="input" placeholder="Ask your question..." />
+    <button onclick="sendMessage()">Send</button>
+  </div>
+</div>
+
+<script>
+  const messagesDiv = document.getElementById("messages");
+  const inputField = document.getElementById("input");
+
+  function addMessage(text, role) {
+    const msg = document.createElement("div");
+    msg.className = "message " + role;
+    msg.innerText = text;
+    messagesDiv.appendChild(msg);
+    messagesDiv.scrollTop = messagesDiv.scrollHeight;
+  }
+
+  async function sendMessage() {
+    const message = inputField.value.trim();
+    if (!message) return;
+
+    addMessage(message, "user");
+    inputField.value = "";
+
+    addMessage("Typing...", "bot");
+
+    try {
+      const response = await fetch("/chat", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ message })
+      });
+
+      const data = await response.json();
+
+      messagesDiv.removeChild(messagesDiv.lastChild);
+      addMessage(data.answer, "bot");
+
+    } catch (error) {
+      messagesDiv.removeChild(messagesDiv.lastChild);
+      addMessage("Server error.", "bot");
+    }
+  }
+
+  inputField.addEventListener("keydown", function(e) {
+    if (e.key === "Enter") {
+      sendMessage();
+    }
+  });
+</script>
+
+</body>
+</html>
