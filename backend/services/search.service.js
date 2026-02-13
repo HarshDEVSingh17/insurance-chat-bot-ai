@@ -10,11 +10,14 @@ const pinecone = new Pinecone({
 const index = pinecone.Index(process.env.PINECONE_INDEX_NAME);
 
 export async function searchVector(vector) {
-  const response = await index.query({
+  const index = pinecone.Index(process.env.PINECONE_INDEX_NAME);
+
+  const result = await index.query({
     vector,
     topK: 3,
-    includeMetadata: true,
+    includeMetadata: true
   });
 
-  return response.matches;
+  return result.matches;
 }
+
